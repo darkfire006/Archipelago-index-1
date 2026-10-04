@@ -1,0 +1,6 @@
+name = "Twiddly Gems"
+home = "https://gems.browsergam.ing/"
+default_url = "https://github.com/mooinglemur/twiddlygems/releases/download/v{{version}}/twiddlygems.apworld"
+
+[versions]
+"0.1.1" = {}
